@@ -1,2 +1,2 @@
 # module-2-challenge
-Functional webpage for my protfolio
+Functional webpage for my portfolio
