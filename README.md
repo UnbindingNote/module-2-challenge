@@ -1,6 +1,6 @@
 # module-2-challenge
 Functional webpage for my portfolio
-
+![Portfolio](/screenshot/PortfolioSS.jpg?raw=true "Portfolio")
 
 # 02 Advanced CSS: Portfolio
 
